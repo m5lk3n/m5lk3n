@@ -6,8 +6,8 @@ I'm Michael. Dad, Husband, Gen Xer, and IT guy who grew up with a C64.
 - 🎓 I'm always learning new (Cloud Native) things.
 - 🚀 I'm currently playing [Elite Dangerous](https://www.elitedangerous.com/).
 - 💬 Ask me about Platform Engineering and CloudOps on Google Cloud.
-- 😄 Pronouns: He/Him
-- 🗣 Social: [LinkedIn](https://www.linkedin.com/in/m5lk3n/)
+- 🚹 Pronouns: He/Him
+- 📢 Social: [LinkedIn](https://www.linkedin.com/in/m5lk3n/)
 
 <!--
 **m5lk3n/m5lk3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
