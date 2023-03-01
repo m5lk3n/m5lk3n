@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-I'm Michael.
+I'm Michael. Dad, Husband, Gen Xer, and IT guy who grew up with a C64.
 
+- 👷 I'm somewhat loosely building a Text-based User Interface with Golang (maybe later more here...) 
+- 🎓 I'm always learning new (Cloud Native) things.
+- 🚀 I'm currently playing [Elite Dangerous](https://www.elitedangerous.com/).
 - 💬 Ask me about Platform Engineering and CloudOps on Google Cloud.
 - 😄 Pronouns: He/Him
 - 🗣 Social: [LinkedIn](https://www.linkedin.com/in/m5lk3n/)
