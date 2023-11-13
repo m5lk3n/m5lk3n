@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 I'm Michael. Dad, Husband, Gen Xer, and IT guy who grew up with a C64.
-- 💬 Ask me about Platform Engineering and CloudOps on 
+- 💬 Ask me about Platform Engineering on 
 [![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?style=for-the-badge&logo=google-cloud&logoColor=white&link=https://cloud.google.com/)](https://cloud.google.com/).
 <!--
 - 👷 I'm somewhat loosely building a Text-based User Interface with Golang (maybe later more here...) 
 -->
-- 🎓 I'm always learning new (Cloud Native) things.
-- 🚀 I'm sometimes playing [Elite Dangerous](https://www.elitedangerous.com/).
+- 🎓 I'm currently learning Flutter/Dart.
+- 🚀 I sometimes play [Elite Dangerous](https://www.elitedangerous.com/).
 - 📫 How to reach out - Connect with me...
 [![LinkedIn Badge](https://img.shields.io/badge/-m5lk3n-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m5lk3n/)](https://www.linkedin.com/in/m5lk3n/)
 
