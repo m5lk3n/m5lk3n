@@ -6,8 +6,8 @@ I'm Michael. Dad, Husband, Gen Xer, and IT guy who grew up with a C64.
 <!--
 - 👷 I'm somewhat loosely building a Text-based User Interface with Golang (maybe later more here...) 
 -->
-- 🎓 I'm currently learning Flutter/Dart.
-- 🚀 I sometimes play [Elite Dangerous](https://www.elitedangerous.com/).
+- 🎓 I'm learning [Flutter](https://flutter.dev/)/[Dart](https://dart.dev/) and [Drums](https://www.drumeo.com/).
+- 🚀 I sometimes play [Zelda](https://zelda.nintendo.com/tears-of-the-kingdom/) or [Elite Dangerous](https://www.elitedangerous.com/).
 - 📫 How to reach out - Connect with me...
 [![LinkedIn Badge](https://img.shields.io/badge/-m5lk3n-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m5lk3n/)](https://www.linkedin.com/in/m5lk3n/)
 
