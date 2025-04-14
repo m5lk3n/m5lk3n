@@ -2,12 +2,12 @@
 
 I'm Michael. Dad, Husband, Gen Xer, Platform Architect/Engineer/Developer who grew up with a C64.
 - 🎓 I'm learning [Flutter](https://flutter.dev/)/[Dart](https://dart.dev/) and [Drums](https://www.drumeo.com/).
-- 👷 I'm currently working on [Wyatt](https://github.com/m5lk3n/wyatt/).
+- 👷 I'm currently working on my private cloud.
 - 🌱 I like to think of myself as a [Golang](https://go.dev/) person.
 - 🚀 I sometimes play [Zelda](https://zelda.nintendo.com/) or [Elite Dangerous](https://www.elitedangerous.com/).
 - 💬 Ask me about CloudOps and Platform Engineering on [Google Cloud Platform](https://cloud.google.com/).
 
-#### Current ~~Stack~~ Focus
+#### Current Stack & Focus
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
