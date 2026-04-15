@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Michael. Dad, Husband, Gen Xer, Platform Architect/Engineer/Developer who grew up with a C64.
-- 👷 ~~I'm currently working on ... wait for it ... my AI project.~~
+- 👷 I'm currently working on some private projects. 
 - 🌱 I like to think of myself as a [Golang](https://go.dev/) person (with a tendency to [Flutter](https://flutter.dev/)/[Dart](https://dart.dev/)).
 - 🎓 I've never stopped learning. [Drums](https://www.drumeo.com/) is next.
 - 🚀 I sometimes play [Zelda](https://zelda.nintendo.com/) or [Elite Dangerous](https://www.elitedangerous.com/).
