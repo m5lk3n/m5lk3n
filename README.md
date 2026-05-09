@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm Michael. Dad, Husband, Gen Xer, Platform Architect/Engineer/Developer who grew up with a C64.
+
+- 📄 [My Curriculum Vitae](https://cv.michael-klein.info/).
 - 👷 I'm currently working on some private projects. 
 - 🌱 I like to think of myself as a [Golang](https://go.dev/) person (with a tendency to [Flutter](https://flutter.dev/)/[Dart](https://dart.dev/)).
 - 🎓 I've never stopped learning. [Drums](https://www.drumeo.com/) is next.
