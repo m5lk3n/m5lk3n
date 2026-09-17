@@ -6,7 +6,7 @@ I'm Michael. Dad, Husband, Gen Xer, Platform Architect/Engineer/Developer who gr
 - 👷 I'm currently working on some private projects. 
 - 🌱 I like to think of myself as a [Golang](https://go.dev/) person (with a tendency to [Flutter](https://flutter.dev/)/[Dart](https://dart.dev/)).
 - 🎓 I've never stopped learning. [Drums](https://www.drumeo.com/) is next.
-- 🚀 I sometimes play [Zelda](https://zelda.nintendo.com/) or [Elite Dangerous](https://www.elitedangerous.com/).
+- 🚀 I sometimes play [Zelda](https://zelda.nintendo.com/) or [Breathedge 2](https://www.hypetraindigital.com/games/breathedge-2).
 - 💬 Ask me about CloudOps and Platform Engineering on [Google Cloud Platform](https://cloud.google.com/).
 
 #### Current Stack & Focus
